@@ -1,0 +1,18 @@
+- [ ] Specs and help screen
+- [ ] Credits screen with Butterium settings
+- [ ] Open screen effects GIF (maybe at the mouse cursor)
+- [ ] Space background with reverse parallax effect
+- [ ] Donate and discord buttons in options
+- [ ] Fix variable names and values
+- [ ] Known incompatibility warn from GitHub (ver).txt
+- [ ] Known incompatibility should be logged
+- [ ] Custom inventory shortcuts - inventory styled
+- [ ] Port to 1.21.1 and NeoForge
+- [ ] Remove some layouts for settings menus - mod compatability
+- [ ] Send specs to support server on command using MC user
+- [ ] Advanced customisation button in personalisation that leads to credits button thing
+- [ ] Custom background replacing "0" in the BG carousel
+- [ ] Move Butterium assets to a resource pack
+- [ ] Replace button labels and text with localisation keys
+- [ ] Animated background (GIF, MP4 and MOV support)
+- [ ] Use the accent colour in more places, UI design
