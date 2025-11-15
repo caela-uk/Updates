@@ -1,6 +1,11 @@
 # To-Do list for Butterium development 📒
 
-- [ ] Test auto-update and mods with "downloading update" and "your game may freeze during install, don't worry"
+- Allow compatible mods to be installed from in-game
+> "You have unsaved changes" text for when the user needs to restart their game
+
+> Inspired by Lunar and Feather mods screens- showing just icons and some way of viewing descriptions
+
+- [ ] Test auto-update and updating mods
 > https://discord.com/channels/704163135787106365/1429870103545118840
 
 > With "downloading update" and "your game may freeze during install, don't worry" texts
