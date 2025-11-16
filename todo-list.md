@@ -1,5 +1,8 @@
 # To-Do list for Butterium development 📒
 
+- [x] Port to 1.21.1 Fabric
+> I can't port to NeoForge, sorry
+
 - [ ] HEX code accent colours
 > https://github.com/Keksuccino/FancyMenu/issues/1398
 
@@ -41,9 +44,6 @@
 
 - [ ] Custom inventory shortcuts
 > Should be styled like the inventory and also adapt to resource packs, maybe contact some RP creators to add support
-
-- [x] Port to 1.21.1 Fabric
-> I can't port to NeoForge, sorry
 
 - [ ] Remove some layouts for settings menus
 > Would improve mod compatability with mods that change settings
