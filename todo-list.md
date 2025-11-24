@@ -8,6 +8,9 @@
 
 > credit: fishandchips
 
+- [ ] Move text to localization keys
+> This would allow for translations of buttons and text
+
 - [ ] Custom HUD item counters
 > e.g. gapples, arrows, potions
 
