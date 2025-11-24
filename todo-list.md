@@ -1,5 +1,8 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Hook in with Blossom Events
+> PvP practise gamemode too or something
+
 - [ ] Kill counter
 > Maybe similar to Fortnite- skull icon?
 > credit: fishandchips
