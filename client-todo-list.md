@@ -10,7 +10,8 @@
 
 - [ ] Fix Modrinth "listings"
 
-- [ ] Resizable HUD widgets
+- [ ] Redesign HUD editor w/ support for resizable HUD widgets
+> ↳  With sliders and context/options menus
 
 - [ ] Translucent HUD widget backgrounds
 
